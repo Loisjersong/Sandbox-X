@@ -1,0 +1,25 @@
+
+/* color-button HTML */
+.color-btn-container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.color-btn {
+    background-color: white;
+    padding: 50px 70px;
+    border: 2px solid gray;
+    border-radius: 12px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.color-btn:hover {
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+/* end of color-button HTML */
