@@ -11,4 +11,3 @@ btn.addEventListener('click', function onClick() {
 
     index = index >= colors.length - 1 ? 0 : index + 1;
 });
-// end of color-button html
